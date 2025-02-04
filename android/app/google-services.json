@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721670076394",
+    "project_id": "safety-app-b26f3",
+    "storage_bucket": "safety-app-b26f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721670076394:android:d40e3d3760e2d30872a493",
+        "android_client_info": {
+          "package_name": "com.example.we_heroes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDK_cRiFqyXHKiBUtOw7kG_87netjdS-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
